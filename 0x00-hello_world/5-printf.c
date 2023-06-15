@@ -1,5 +1,5 @@
 include <stdio.h>
-
+-i
 /**
  * main - main block
  * Return: 0
