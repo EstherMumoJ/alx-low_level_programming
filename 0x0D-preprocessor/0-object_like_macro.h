@@ -1,6 +1,6 @@
-#ifndef MACRO_H
-#define MACRO_H
+#define MIN_H
+#ifndef MIN_H
 
 #define SIZE 1024
 
-#endif /* MACRO_H */
+#endif /* MIN_H */
