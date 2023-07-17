@@ -1,6 +1,6 @@
-#define SIZE_D
-#ifndef SIZE_D
+#ifndef MACRO_H
+#define MACRO_H
 
 #define SIZE 1024
 
-#endif /* SIZE_D*/
+#endif /* MACRO_H */
