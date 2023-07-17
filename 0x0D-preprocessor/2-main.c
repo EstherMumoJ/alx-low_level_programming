@@ -2,8 +2,7 @@
 
 
 /**
- * main-name of the file the file is coppied from
- * have a new line- \n
+ * main-name of the file the file is copied from
  * return - 0
  */
 
