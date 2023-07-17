@@ -9,6 +9,6 @@
 
 int main(void) 
 { 
-	printf("program is from : %s\n", __FILE__);
+	printf("Program is from: %S\n", __FILE__);
 	return 0;
 }
