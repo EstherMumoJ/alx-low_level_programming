@@ -3,8 +3,9 @@
 
 /**
  * main-name of the file the file is coppied from
+ * have a new line- \n
  * return - 0
- * with a new line(/n)
+ * 
  */
 
 int main() 
