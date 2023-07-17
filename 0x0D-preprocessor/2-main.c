@@ -1,13 +1,12 @@
 #include <stdio.h>
 
-
 /**
- * main-name of the file the file is copied from
- * return - 0
+ * main - file compiled from
+ * Return: 0;
  */
 
-int main(void) 
-{ 
+int main(void)
+{
 	printf("%s\n", __FILE__);
-	return 0;
+	return (0);
 }
