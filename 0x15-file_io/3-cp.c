@@ -5,8 +5,8 @@
 
 /**
  * main - creating the copy of the script
- * @ac: the number of arguments 
- * @av: strings representing arguments
+ * @ac:the number of arguments 
+ * @av:strings representing arguments
  * Return: 0
  */
 int main(int ac, char *av[])
